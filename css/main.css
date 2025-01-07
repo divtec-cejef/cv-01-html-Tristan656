@@ -29,6 +29,9 @@ a {
 a:hover {
     color: darkmagenta;
 }
+p {
+    color: white;
+}
 #text-color {
     color: tomato;
 }
