@@ -28,3 +28,6 @@ a:hover {
 #text-color {
     color: tomato;
 }
+#text-alignement {
+    text-alignement: center;
+}
