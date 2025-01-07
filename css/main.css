@@ -31,13 +31,13 @@ a:hover {
     color: tomato;
 }
 #text-alignement {
-    text-align: right;
+    text-align: center;
 }
 #text-width {
     width: 60px;
 }
 #text-em {
-    width: 1.3em;
+    width: 3em;
 }
 #text-rem {
     width: 1.5rem;
