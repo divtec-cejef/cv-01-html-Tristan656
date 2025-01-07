@@ -29,5 +29,9 @@ a:hover {
     color: tomato;
 }
 #text-alignement {
-    text-alignment: center;
+    text-align: center;
 }
+#text-width {
+    width: 60px;
+}
+
