@@ -8,10 +8,7 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     color: darkblue;
-    background-image: url('css/R (7).jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-image: url('img/image-plage.jpg');
 }
 header {
     border: 10px solid red;
