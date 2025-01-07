@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    background-image: url('R (7).jpg');
 }
 
 body {
@@ -10,6 +9,7 @@ body {
     line-height: 1.4;
     color: darkblue;
     background-color: whitesmoke;
+    background-image: url('R (7).jpg');
 }
 
 img {
