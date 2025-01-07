@@ -14,7 +14,7 @@ body {
     background-position: center;
 }
 header {
-    border: 14px solid black;
+    border: 10px solid red;
     border-width: 30%;
 }
 img {
