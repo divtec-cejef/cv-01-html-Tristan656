@@ -9,7 +9,7 @@ body {
     line-height: 1.4;
     color: darkblue;
     background-color: whitesmoke;
-    background-image: url(css/R (7).jpg);
+    background-image: url('css/R (7).jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
