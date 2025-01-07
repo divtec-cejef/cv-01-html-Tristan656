@@ -12,7 +12,6 @@ body {
 }
 header {
     border: 10px solid red;
-    border-width: 30%;
 }
 img {
     max-width: 100%;
