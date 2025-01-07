@@ -13,8 +13,8 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
-footer {
-    border: 2px solid black;
+header {
+    border: 2px solid orange;
 }
 img {
     max-width: 100%;
