@@ -8,7 +8,6 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     color: darkblue;
-    background-color: whitesmoke;
     background-image: url('css/R (7).jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -28,9 +27,6 @@ a {
 
 a:hover {
     color: darkmagenta;
-}
-p {
-    color: white;
 }
 #text-color {
     color: tomato;
