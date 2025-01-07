@@ -34,4 +34,6 @@ a:hover {
 #text-width {
     width: 60px;
 }
-
+#text-em {
+    width: 1.3em;
+}
