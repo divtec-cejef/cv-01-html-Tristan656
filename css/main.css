@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    text-align: center;
 }
 
 body {
@@ -34,7 +35,7 @@ a:hover {
     color: tomato;
 }
 #text-alignement {
-    text-align: center;
+    text-align: right;
 }
 #text-width {
     width: 60px;
