@@ -13,6 +13,9 @@ body {
 header {
     border: 10px solid red;
 }
+footer {
+    max-width: 100%;
+}
 img {
     max-width: 100%;
     height: auto;
