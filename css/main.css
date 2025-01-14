@@ -16,6 +16,7 @@ header {
 }
 footer {
     max-width: 100%;
+    background-color: black;
 }
 img {
     max-width: 100%;
